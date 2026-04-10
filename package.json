@@ -1,0 +1,16 @@
+{
+  "name": "orkut-mutasi-relay",
+  "version": "1.0.0",
+  "description": "OrderKuota Mutasi Relay API - Host di Heroku",
+  "main": "index.js",
+  "engines": {
+    "node": "20.x"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.0",
+    "express": "^4.19.2"
+  }
+}
